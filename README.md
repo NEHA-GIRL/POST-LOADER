@@ -30,7 +30,7 @@ rm -rf POST-LOADER
 ```
 git clone --depth=1 https://github.com/NEHA-GIRL/POST-LOADER.git
 ```
-* NAVIGATE TO THE INBOX-LOADER DIRECTORY
+* NAVIGATE TO THE POST-LOADER DIRECTORY
 
 ```
 cd POST-LOADER 
