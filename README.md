@@ -6,8 +6,6 @@
 * TERMUX TOOL IN INSTALL 
 
 ```bash
-
-
 pkg update 
 pkg upgrade
 pkg install python
@@ -19,9 +17,9 @@ pip install urllib3
 pip install rich
 pip install bs4
 termux-setup-storage
-`
- 
-```python
+```
+* REMOVE FILE
+```
 rm -rf POST-LOADER
 ```
 * CLONE THE REPOSITORY FROM GITHUB
